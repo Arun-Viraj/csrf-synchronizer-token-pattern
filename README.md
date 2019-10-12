@@ -10,4 +10,4 @@ Start the server from XAMPP-Control and visit http://localhost/csrf-synchronizer
 
 ## Medium article, Take a look for a better understanding
 
-link : https://medium.com/@arunvirajpoobalan/csrf-synchronizer-token-pattern-208c644d6d2c?source=friends_link&sk=670a50192aa81eba5685c8b86052b9be
+Link : https://medium.com/@arunvirajpoobalan/csrf-synchronizer-token-pattern-208c644d6d2c?source=friends_link&sk=670a50192aa81eba5685c8b86052b9be
