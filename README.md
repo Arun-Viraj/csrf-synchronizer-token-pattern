@@ -1,4 +1,4 @@
-# csrf-synchronizer-token-pattern
+# CSRF - Synchronizer Token Pattern
 A simple web application to prevent Cross-Site Request Forgery based on php and javascript.
 
 ## How to install
